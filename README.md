@@ -18,6 +18,6 @@ The goal was to transform raw financial data into a powerful, interactive dashbo
 ### The Dashboard
 <img width="1152" height="644" alt="Screenshot 2025-09-01 193709" src="https://github.com/user-attachments/assets/ff91a5b6-b8b3-45f5-9e8f-284dd0a6b2ad" />
 
-### Dataset
+### Dataset (Manually collected)
 <img width="1250" height="751" alt="Screenshot 2025-08-01 134056" src="https://github.com/user-attachments/assets/ec1d550a-c49f-4043-8266-fd12ea307e32" />
 
